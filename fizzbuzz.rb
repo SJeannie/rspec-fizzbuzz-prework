@@ -1,6 +1,6 @@
 def fizzbuzz(num)
 
-  output = nil
+  output = "nil"
   
   if (num % 3 == 0) 
     output = "Fizz"  
